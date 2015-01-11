@@ -1,6 +1,6 @@
 # Cloud Server Provisioning Scripts
-***
-## EC2 Ubuntu Node.js Provisioner (ec2-ubuntu-nodejs.sh)
+
+## ec2-ubuntu-nodejs.sh
 This bash script will provision a new EC2 instance with the following:
   - Node.js (cloned from the Node.js Github repository)
   - NPM
